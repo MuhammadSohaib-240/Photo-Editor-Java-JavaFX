@@ -1,0 +1,19 @@
+#mainLayout {
+    -fx-background-color: #22292f;
+}
+
+#valueText {
+    -fx-text-fill: cyan;
+}
+
+#applyChangesButton {
+    -fx-background-color: transparent;
+    -fx-border-color: cyan;
+    -fx-text-fill: cyan;
+}
+
+#applyChangesButton:hover {
+    -fx-background-color: cyan;
+    -fx-text-fill: #22292f;
+    -fx-cursor: hand;
+}

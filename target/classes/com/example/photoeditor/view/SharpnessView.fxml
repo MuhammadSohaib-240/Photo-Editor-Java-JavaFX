@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="mainLayout" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="111.0" prefWidth="451.0" spacing="5.0" stylesheets="@../../../../Stylesheets/ColorEnhancement.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.photoeditor.controller.SharpnessController">
+    <children>
+        <HBox alignment="CENTER" prefHeight="51.0" prefWidth="451.0" spacing="10.0">
+            <children>
+                <Slider fx:id="slider" prefHeight="14.0" prefWidth="358.0">
+                    <HBox.margin>
+                        <Insets left="5.0" />
+                    </HBox.margin>
+                </Slider>
+                <TextField fx:id="textField" alignment="CENTER" prefHeight="25.0" prefWidth="40.0" text="0" />
+            </children>
+        </HBox>
+    </children>
+</VBox>

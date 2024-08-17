@@ -1,0 +1,78 @@
+#imageViewLayout{
+    -fx-background-color: #22292f;
+}
+
+#featuresLayout{
+    -fx-background-color: #2a333a;
+}
+
+.button{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+#cropButton{
+    -fx-graphic: url("../Images/crop.png");
+}
+
+#cropButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+    -fx-graphic: url("../Images/crophover.png");
+}
+
+#brightnessButton{
+    -fx-graphic: url("../Images/brightness.png");
+}
+
+#brightnessButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+        -fx-graphic: url("../Images/brightnesshover.png");
+}
+
+#contrastButton{
+    -fx-graphic: url("../Images/contrast.png");
+}
+
+#contrastButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+    -fx-graphic: url("../Images/contrasthover.png");
+}
+
+#sharpnessButton{
+    -fx-graphic: url("../Images/sharpness.png");
+}
+
+#sharpnessButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+    -fx-graphic: url("../Images/sharpnesshover.png");
+}
+
+#filtersButton{
+    -fx-graphic: url("../Images/filter.png");
+}
+
+#filtersButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+    -fx-graphic: url("../Images/filterhover.png");
+}
+
+#removeBackgroundButton{
+    -fx-graphic: url("../Images/rb.png");
+}
+
+#removeBackgroundButton:hover{
+    -fx-background-color: #22292f;
+    -fx-cursor: hand;
+    -fx-text-fill: #00F5FF;
+    -fx-graphic: url("../Images/rbhover.png");
+}
