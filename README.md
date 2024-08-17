@@ -52,10 +52,6 @@ After setting up the prerequisites, you can run the project through your IDE by 
 - **JavaFX:** Used for building the graphical user interface.
 - **OpenCV:** Used for image processing tasks.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the OpenCV community for providing robust tools for computer vision tasks.
@@ -63,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or further information, please feel free to contact me through my [GitHub profile](https://github.com/yourusername).
+For any questions or further information, please feel free to contact me through my [GitHub profile](https://github.com/MuhammadSohaib-240).
